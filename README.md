@@ -19,6 +19,6 @@ Pada modelling ini menggunakan 5 jenis Macine Learning yaitu:
 Dari 5 ML tersebut hasil terbaik pada XGBoost dengan nilai recall 0.93 -> alasan digunakan recall sebagai acuan karena ingin mengintervensi customer 
 yang terindikasi akan churn agar tetap loyal dalam  menggunakan app ecommerce
 
-![alt text](https://ibb.co/frwdBsH/)
+![shap](https://user-images.githubusercontent.com/44351664/135306315-1f2a5542-1bcf-44da-add8-79d26b640e23.jpg)
 
 Berdasarkan gambar shap tersebut variabel yang berdampak pada customer churn yaitu Tenure, Complain, NumberofAddres, DaySinceLastOrder dan WarehouseToHome
